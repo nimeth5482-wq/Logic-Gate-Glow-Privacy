@@ -61,10 +61,6 @@ Local game data remains on your device until you clear the Game's storage or uni
 
 Because the Game does not provide accounts or upload local save data to our servers, we cannot remotely identify or delete local game data. You can delete it through **Android Settings > Apps > Logic Gate Glow Lab > Storage > Clear storage**, or by uninstalling the Game.
 
-## Children's Privacy
-
-The Game is not directed to children under 13. We do not knowingly collect personal information directly from children. If you believe a child has provided personal information through a third-party service used by the Game, contact us so we can help direct the request to the appropriate provider.
-
 ## International Users
 
 Advertising providers may process information in countries other than the country where you live. Their privacy policies describe the safeguards and legal bases they use for international processing.
