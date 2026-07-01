@@ -1,8 +1,5 @@
 # Privacy Policy for Logic Gate Glow Lab
 
-**Effective date:** July 1, 2026  
-**Last updated:** July 1, 2026
-
 Logic Gate Glow Lab ("the Game") is a logic puzzle game published by Neon Games ("we", "us", or "our"). This Privacy Policy explains how information is handled when you use the Game.
 
 ## Information Stored on Your Device
@@ -78,8 +75,5 @@ We may update this Privacy Policy when the Game, its services, or legal requirem
 
 ## Contact
 
-For privacy questions or requests, contact:
-
-**Neon Games**  
-**Email:** REPLACE-WITH-YOUR-SUPPORT-EMAIL
+For privacy questions or requests, contact: nimethparanavithana@gmail.com
 
